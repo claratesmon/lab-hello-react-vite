@@ -1,0 +1,21 @@
+.nav-bar{
+    background-color: rgb(29, 29, 47);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 50px;
+    
+    
+}
+
+.menu-icon{
+    height: 20px;
+    padding-right: 2em;
+    
+}
+
+.ih-logo{
+    padding-left: 1em;
+}
+
